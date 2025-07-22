@@ -3,7 +3,7 @@
 This is a simple web project that displays student results in a clean and organized layout. It was built using HTML, CSS, and JavaScript.
 
 ## Live Demo
-https://suyogshirpe.github.io/College-Result/
+https://suyogshirpe.github.io/College-Result-/
 
 ## Project Structure
 
